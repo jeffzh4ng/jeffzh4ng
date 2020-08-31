@@ -4,6 +4,6 @@
 ## Hi there 👋, 
 I'm Jeff. A software engineer and [dancer](https://photos.google.com/share/AF1QipOuVqbnQuCsoia2aiQ5ELTo_D4t4vmVJUtDijLNjSvaZdB25BpXvdFdZnjdmlDWnA) currently studying Mathematics at the University of Waterloo. Some of my interests include web programming and systems programming.
 
-Previously interned at IBM, working on critical data analytics for IBM Watson's Risk Management software. I also interned as a full stack engineer for eight months at a Sequoia-backed startup, Setter. I was a core member on the engineering team, and heavily contributed to the success of our series B funding 💪.
+Last year, I interned as a full stack engineer for eight months at a Sequoia-backed startup, Setter. I was a core member on the team, heavily contributing to the sucess of our series B funding 💪. Before that I interned at IBM, working on data analytics for IBM Watson's risk management. Before IBM, during my last two summers of highschool, I interned at Telus Digital as a web developer. 
 
 I'm currently open for internship opportunities, feel free to reach out 😊
