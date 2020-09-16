@@ -7,3 +7,5 @@ I'm Jeff. A software engineer and [dancer](https://photos.google.com/share/AF1Qi
 Last year, I interned as a full stack engineer for eight months at a Sequoia-backed startup, Setter. I was a core member on the team, heavily contributing to the sucess of our series B funding 💪. Before that I interned at IBM, working on data analytics for IBM Watson's risk management. Before IBM, during my last two summers of highschool, I interned at Telus Digital as a web developer. 
 
 I'm currently open for internship opportunities, feel free to reach out 😊
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jeffzh4ng.jeffzh4ng)
