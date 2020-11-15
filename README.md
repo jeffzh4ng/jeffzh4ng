@@ -1,5 +1,4 @@
 # Jeff Zhang
-[![Gmail Badge](https://img.shields.io/badge/-zhang.jeffreyd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhang.jeffreyd@gmail.com)](mailto:zhang.jeffreyd@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@jeffzh4ng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jeffzh4ng)](https://twitter.com/jeffzh4ng)
 
 ## Hi.
 I'm Jeff. A software engineer currently studying Mathematics λ at the University of Waterloo. I enjoy being meticulous and academically rigorous in theory yet realistic and practical in the design of systems.
